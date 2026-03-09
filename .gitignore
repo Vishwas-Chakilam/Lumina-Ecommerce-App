@@ -1,0 +1,11 @@
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+
+Backend (SpringBoot)/Ecom/target/
+Backend (SpringBoot)/Ecom/.env
+
+.idea/
+.vscode/
+*.iml
+
