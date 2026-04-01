@@ -5,7 +5,7 @@ Full‑stack demo e‑commerce application built with:
 - **Frontend**: React 18, TypeScript, Vite, Tailwind CSS
 - **Backend**: Spring Boot 4, Java 21, Spring Data JPA
 - **Auth & DB**: Supabase (Auth + Postgres)
-
+---
 ## Features
 
 - Product catalog with categories, search, featured section
